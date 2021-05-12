@@ -1,6 +1,6 @@
 # Data-Structure
 
- ### Exercicio Proposto (lista simplesmente encadeada)
+ ### Exercício Proposto (lista simplesmente encadeada)
  Uma maneira usual de se representar um conjunto é pela lista de seus elementos. 
   Supondo esta representação, escreva um programa que use o TAD Lista e implemente as operações usuais de conjunto: 
  * (a) União: C = (A∪B)
